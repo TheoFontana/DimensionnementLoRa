@@ -1,7 +1,7 @@
 import serial
 import time
 
-arduino_port = '/dev/cu.usbmodem11301' #serial port of Arduino
+arduino_port = '/dev/cu.usbmodem101' #serial port of Arduino
 baud = 115200 #arduino runs at 115200 baud
 fileName='data.csv' #name of the CSV file generated
 
