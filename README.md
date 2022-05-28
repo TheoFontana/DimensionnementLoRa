@@ -6,9 +6,6 @@
 * MARTHRIN-JOHN Lauric
 * NIXARLIDIS Dimitrios
 
-## **Résumé**
-Ce bureau d’étude a pour cible d'effectuer une étude sur le réseau LoRa dans le monde de manière générale et ensuite d’évaluer les caractéristiques de ce dernier, à savoir en termes d’environnement, de la puissance reçue en fonction de la distance avec un émetteur, de la portée et ainsi que les pertes et faire un compte rendu dans le campus de Rangueil.
-
 ## **Introduction**
 L’objectif de ce bureau d’étude est la réalisation d’un modèle de propagation, pour l’étude d’un système de stationnement qui est localisé sur le campus de Rangueil à Toulouse. Son principal objectif est de simplifier la recherche d’une place de parking pour les personnes qui se rendent dans ce quartier en voiture. Elle permet de savoir si une place est occupée ou non à l’aide de messages envoyés à une passerelle. Le système repose sur le protocole de communication LoRaWAN “Long Range radio Wide Area Network” qui s’appuie sur LoRa pour la couche physique. Cela permettra de connaître le taux d’occupation des places de stationnement dans la zone considérée.
 
