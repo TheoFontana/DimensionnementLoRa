@@ -124,8 +124,7 @@ En affichant le RSSI_packet des paquets reçus sur la carte nous obtenons la cou
 
 <img src= "./assets/map_result.png" width=400>
 
-*Figure 5 - Zone couverte sur fond de carte Google MAP
-(Les zones rouges indiquent des niveaux très faibles)
+*Figure 5 - Zone couverte sur fond de carte Google MAP (Les zones rouges indiquent des niveaux très faibles)*
 
 Nous remarquons que certaines zones lointaines ont une meilleure qualité de réception que certaines zones plus proches. Ceci s’explique par le fait que la densité de bâtiments n’est pas la même partout, certains immeubles gênaient grandement la qualité de réception même lorsque nous étions relativement proche de la station de base.
 
