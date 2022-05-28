@@ -124,7 +124,7 @@ En affichant le RSSI_packet des paquets reçus sur la carte nous obtenons la cou
 
 <img src= "./assets/map_result.png" width=400>
 
-Figure 5 - Zone couverte sur fond de carte Google MAP 
+*Figure 5 - Zone couverte sur fond de carte Google MAP
 (Les zones rouges indiquent des niveaux très faibles)
 
 Nous remarquons que certaines zones lointaines ont une meilleure qualité de réception que certaines zones plus proches. Ceci s’explique par le fait que la densité de bâtiments n’est pas la même partout, certains immeubles gênaient grandement la qualité de réception même lorsque nous étions relativement proche de la station de base.
@@ -137,7 +137,7 @@ Nous obtenons les résultats suivants :
 
 <img src= "./assets/output.png" width=400>
 
-Figure 6 - Jeu de données normalisées par groupes en fonction de leur distance à l’antenne.
+*Figure 6 - Jeu de données normalisées par groupes en fonction de leur distance à l’antenne.*
 
 Nous observons que lorsque nous sommes proche de l’antenne la réception est toujours très bonne. En revanche, entre 300 et 400 mètres la réception commence à se dégrader.  Nous observons une forte augmentions de l’écart type dans nos valeurs, en effet à partir de cette distance nous pouvons nous trouver derrière un bâtiment ou bien être en visibilité directe avec la station de base.
 
